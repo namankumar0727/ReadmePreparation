@@ -96,21 +96,28 @@ Below is the list of dependencies and libraries used in the project:
 
 ### Dependencies
 - **React** - A JavaScript library for building user interfaces.
-React Router DOM - Handles routing and navigation in the React application.
-Tailwind CSS - A utility-first CSS framework for styling.
-PostCSS - A tool to transform styles with JavaScript plugins.
-Vite - A build tool that is fast and optimized for modern web development.
-Development Dependencies
-ESLint - For maintaining code quality and consistency.
-Prettier - A code formatter to ensure consistent style.
-Autoprefixer - Adds vendor prefixes to CSS rules automatically for compatibility.
-System Requirements
+- **React Router DOM** - Handles routing and navigation in the React application.
+- **Tailwind CSS** - A utility-first CSS framework for styling.
+- **PostCSS - A tool to transform styles with JavaScript plugins.
+- **Vite - A build tool that is fast and optimized for modern web development.
+
+
+### Development Dependencies
+- **ESLint - For maintaining code quality and consistency.
+- **Prettier - A code formatter to ensure consistent style.
+- **Autoprefixer - Adds vendor prefixes to CSS rules automatically for compatibility.
+
+## System Requirements
+
+
 To run this project, ensure your system meets the following requirements:
 
-Software
-Node.js: Version 16.0.0 or higher.
-npm: Version 7.0.0 or higher (comes with Node.js).
-Hardware
-Operating System: Windows, macOS, or Linux.
-Memory: At least 4GB of RAM (8GB recommended).
-Storage: At least 500MB of free space for dependencies and build files.
+### Software
+- **Node.js**  :  Version 16.0.0 or higher.
+- **npm:**  Version 7.0.0 or higher (comes with Node.js).
+
+
+###Hardware
+- **Operating System**  :  Windows, macOS, or Linux.
+- **Memory**  :  At least 4GB of RAM (8GB recommended).
+- **Storage**  :  At least 500MB of free space for dependencies and build files.
