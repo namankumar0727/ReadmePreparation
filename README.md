@@ -6,7 +6,7 @@ The **frontend** folder contains all the necessary files and directories for the
 
 ###frontend/ 
 ├── public/
-#### Contains static assets like the main HTML file 
+  #### Contains static assets like the main HTML file 
 ├── src/ 
 #### Main source code directory for the React application 
 ├── .gitignore 
