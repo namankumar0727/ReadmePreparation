@@ -4,29 +4,29 @@
 
 The **frontend** folder contains all the necessary files and directories for the React frontend of the project. Below is the directory structure:
 
-frontend/ 
+###frontend/ 
 ├── public/
-# Contains static assets like the main HTML file 
+#### Contains static assets like the main HTML file 
 ├── src/ 
-# Main source code directory for the React application 
+#### Main source code directory for the React application 
 ├── .gitignore 
-# Specifies files and directories to ignore in Git 
+#### Specifies files and directories to ignore in Git 
 ├── eslint.config.js 
-# ESLint configuration file for code quality 
+#### ESLint configuration file for code quality 
 ├── index.html 
-# Entry point HTML file for the app 
+#### Entry point HTML file for the app 
 ├── package-lock.json 
-# Dependency lock file for consistent installations 
+#### Dependency lock file for consistent installations 
 ├── package.json 
-# Project metadata and dependency list 
+#### Project metadata and dependency list 
 ├── postcss.config.js 
-# PostCSS configuration for CSS processing 
+#### PostCSS configuration for CSS processing 
 ├── README.md 
-# Documentation file for the project 
+#### Documentation file for the project 
 ├── tailwind.config.js 
-# Tailwind CSS configuration for customizing styles 
+#### Tailwind CSS configuration for customizing styles 
 └── vite.config.js 
-# Vite configuration for development and build
+#### Vite configuration for development and build
 
 ### Folder and File Descriptions
 
