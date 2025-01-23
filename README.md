@@ -6,6 +6,7 @@ The **frontend** folder contains all the necessary files and directories for the
 
 ### frontend/
 
+
 ```
  ├── public/
 
@@ -51,7 +52,6 @@ The **frontend** folder contains all the necessary files and directories for the
 
     Vite configuration for development and build
 
-
 ```
 ### Folder and File Descriptions
 
@@ -87,3 +87,4 @@ The **frontend** folder contains all the necessary files and directories for the
 
 - **vite.config.js**  
   Configuration file for Vite, handling build and development server settings.
+  
