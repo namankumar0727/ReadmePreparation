@@ -4,7 +4,7 @@
 
 The **frontend** folder contains all the necessary files and directories for the React frontend of the project. Below is the directory structure:
 
-###frontend/
+### frontend/
 
 
 ├── public/
