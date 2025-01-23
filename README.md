@@ -1,4 +1,4 @@
-#NGO-Helper Documentation
+# NGO-Helper Documentation
 
 ## Directory Structure
 
